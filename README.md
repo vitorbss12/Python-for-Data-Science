@@ -5,7 +5,7 @@ Este repositório contam todas as atividades de aprendizagem desenvolvidas por _
 
 ## **Conhecendo a linguagem e principais bibliotecas**
 
-### Curso 1: **Python para Data Science**
+### Curso 1: **Python para Data Science** :white_check_mark:
   - [X] 1-1: _Função e linguagem de alto nível_
   - [X] 1-2: _Parâmetros, condicionais e conversão de tipos_
   - [X] 1-3: _Lista, repetições e tipo booleano_
